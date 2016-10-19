@@ -1,3 +1,5 @@
+fun = function(i){Sys.sleep(1);i}
+
 f11 = function(n){
   sqrt(seq_len(n))+sqrt(1)
 }
